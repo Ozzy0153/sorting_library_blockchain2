@@ -9,8 +9,8 @@ This Rust library provides various sorting algorithms, including:
 - Insertion Sort
 - Merge Sort
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img.png](src/img/img.png)
+![img_1.png](src/img/img_1.png)
 
 To use the sorting algorithms provided by this library, simply import the functions into your Rust project and call them as needed.
 
